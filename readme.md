@@ -33,6 +33,10 @@ Please find a screenshot of the expected result below:
 
 ![Instagram lab Screenshot](https://i.imgur.com/DQ9fk1u.png)
 
+### Further
+Use CSS media queries to make the iphone image dissapear when the screen is mobile width. (Less than 320px wide)
+
+
 ## Additional Resources
 
 * [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
