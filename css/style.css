@@ -8,4 +8,40 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   margin: 0;
+  background-image: url('../img/bgtile.png');
+  background-repeat: repeat-x;
+}
+
+.title {
+  color: darkblue;
+  font-size: 25px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.homecontainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.badgecontainer{
+  display: flex;
+  justify-content: left;
+}
+
+/*.two {
+  display: inline-block;
+}*/
+
+.container {
+  padding-top: 80px;
+}
+.nav{
+  padding-top: 30px;
+}
+span {
+  margin-left: 10px;
+  color: blue;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 12px;
 }
